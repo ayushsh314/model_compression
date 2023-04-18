@@ -1,0 +1,8 @@
+cd /Users/ayushsharma/Documents/Programming/Python/nyun/trailmet/experiments/pruning/growth_regularisation
+CUDA_VISIBLE_DEVICES=2 python /Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/ipykernel_launcher.py -f /Users/ayushsharma/Library/Jupyter/runtime/kernel-e9e73733-9a06-4ea1-9985-e6b6a39bbc0d.json
+
+ExpNote [-utils-133111]: " " -- TrAIL
+[133111 2559 2023/04/15-13:31:11] Warning! Your code is not commited. Cannot be too careful.
+('arch': resnet50) ('CodeID': c1a03dd4) ('dataset': cifar100) ('epochs': 125) ('lr': 0.1) ('method': GReg-1) ('momentum': 0.9) ('num_classes': 100) ('prune_ratio': 0.5) ('reg_granularity_pick': 1e-05) ('reg_granularity_prune': 0.0002) ('reg_granularity_recover': 0.0001) ('reg_upper_limit': 0.0001) ('reg_upper_pick': 0.01) ('stage_pr': [0.5,0.5,0.5,0.5,0.5,0.5]) ('wd': 0.0001) ('weight_decay': 0.0001)
+
+[133111 2559 2023/04/15-13:31:14] ==> Caching various config files to 'Experiments/TrAIL_SERVER-20230415-133111/.caches'

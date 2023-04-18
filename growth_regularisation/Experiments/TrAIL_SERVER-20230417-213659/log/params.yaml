@@ -1,0 +1,17 @@
+CodeID: c1a03dd4
+arch: resnet50
+dataset: cifar100
+epochs: 125
+lr: 0.1
+method: GReg-1
+momentum: 0.9
+num_classes: 100
+prune_ratio: 0.5
+reg_granularity_pick: 1.0e-05
+reg_granularity_prune: 0.0002
+reg_granularity_recover: 0.0001
+reg_upper_limit: 0.0001
+reg_upper_pick: 0.01
+stage_pr: '[0.5,0.5,0.5,0.5,0.5,0.5]'
+wd: 0.0001
+weight_decay: 0.0001
